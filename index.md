@@ -8,9 +8,11 @@
 # include <simple>
 # include <focus>
 int main() {
-  printf("welcome join us！")
+  printf("welcome to join us！")
   return 0;
 }
 
 ```
+欢迎访问
+[酷家乐技术站](http://tech.kujiale.com)
 
